@@ -48,7 +48,7 @@ export default function Detail({Data, DonationsData}) {
       setStory(storyData);
     }
 
-    Request();
+    Request();    
   }, [change])
 
 
